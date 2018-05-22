@@ -9,6 +9,7 @@
   "author": "Code Fellows",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^4.19.1",
     "express": "^4.16.3",
     "fs": "0.0.1-security",
     "pg": "^6.4.2"
